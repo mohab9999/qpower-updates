@@ -10,8 +10,8 @@
  "updates": {
   "0.1.22": {
    "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.22-to-0.1.23.bin",
-   "size": 3766784,
-   "sha256": "d0250a0ed2c81e48acc64f218e84331a99d59f8d94a35f6bb41e5bcabc02eb5a"
+   "size": 3777024,
+   "sha256": "a90d198536a3c4e4168160b4befc51de65080c2cbf684254eab2e0ecc96e9524"
   }
  },
  "apk": {
