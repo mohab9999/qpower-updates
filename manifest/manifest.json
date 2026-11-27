@@ -1,26 +1,32 @@
 {
- "latest": "0.1.24",
+ "latest": "0.1.25",
  "notes": [
-  "زرار شوف في تحديث بقى بيفتح نافذة ثابتة فيها حدّث دلوقتي",
-  "التحديث السريع بقى بيدوّر على البرنامج الشغال فعلاً"
+  "اسم القطعة بقى بيتكتب معاه موديل الجهاز لوحده (مثلاً: شاشة - 14 برو ماكس)",
+  "نوافذ البرنامج بقت واضحة في الوضع الداكن",
+  "رسالة نجاح التحديث بقت: كل بياناتك سليمة زي ما هي"
  ],
  "updates": {
+  "0.1.24": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.24-to-0.1.25.bin",
+   "size": 3780608,
+   "sha256": "c3ae55c5bc87f43229970805db340e5ad8f2a9f939640438de1f5d2901de7331"
+  },
   "0.1.23": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.23-to-0.1.24.bin",
-   "size": 3779072,
-   "sha256": "568b9aceaa9d98b1743954e5fd61e88f53d7144fce80d71bda0981c4656594db"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.23-to-0.1.25.bin",
+   "size": 3780608,
+   "sha256": "47441cdae0109973f398c2c1e081fac5046fca59a3c1279f31c2232c80f7b032"
   },
   "0.1.22": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.22-to-0.1.24.bin",
-   "size": 3779072,
-   "sha256": "ac298e995d862a1e904ba46ffcdb38a7adcc240dda64c60a75d175ae7a5b954b"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.22-to-0.1.25.bin",
+   "size": 3780608,
+   "sha256": "6ae42bdc8a5dbfc086879adf265e9f5bb1f3c29bf246907c325909182c5427ea"
   }
  },
  "apk": {
-  "versionCode": 23,
-  "versionName": "0.1.23",
-  "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Repair-0.1.23.bin",
+  "versionCode": 25,
+  "versionName": "0.1.25",
+  "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Repair-0.1.25.bin",
   "size": 168888,
-  "sha256": "56d8d52976b5f5990e46dbb61f9521d3e3eaa5530b99798fcd0733a2f6ccfdf4"
+  "sha256": "7a217b9d34e98b17caa5163b7ae26a19d015e7780e3244ef67ccd42ade7d7f10"
  }
 }
