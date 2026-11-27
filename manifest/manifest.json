@@ -1,32 +1,39 @@
 {
- "latest": "0.1.25",
+ "latest": "0.1.26",
  "notes": [
-  "اسم القطعة بقى بيتكتب معاه موديل الجهاز لوحده (مثلاً: شاشة - 14 برو ماكس)",
-  "نوافذ البرنامج بقت واضحة في الوضع الداكن",
-  "رسالة نجاح التحديث بقت: كل بياناتك سليمة زي ما هي"
+  "شريط التحديث البرتقالي بقى بيظهر لوحده بعد ثواني من فتح البرنامج",
+  "البرنامج بقى يدوّر على التحديثات كل نص ساعة",
+  "زرار \"كبس فقط\" بقى فوق \"التقفيل\" في القايمة",
+  "في الإعدادات: مسح صور الفواتير القديمة تلقائياً (اختياري، متوقف من الأول)",
+  "في تفاصيل الفلوس: النوع \"متبقي\" بقى \"باقي الحساب\""
  ],
  "updates": {
+  "0.1.25": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.25-to-0.1.26.bin",
+   "size": 3783680,
+   "sha256": "290f4ae50bc4512a1a212b5320792ae7bd7be5798773228cd613f8ff8b7f2b11"
+  },
   "0.1.24": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.24-to-0.1.25.bin",
-   "size": 3780608,
-   "sha256": "c3ae55c5bc87f43229970805db340e5ad8f2a9f939640438de1f5d2901de7331"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.24-to-0.1.26.bin",
+   "size": 3783680,
+   "sha256": "06b3fd5f7e76e6bddecfefca5c2d408a7bbb821f75b59dc08c98abaf8b7c9fb3"
   },
   "0.1.23": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.23-to-0.1.25.bin",
-   "size": 3780608,
-   "sha256": "47441cdae0109973f398c2c1e081fac5046fca59a3c1279f31c2232c80f7b032"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.23-to-0.1.26.bin",
+   "size": 3783680,
+   "sha256": "44e730910029ba1af75be901b8f81495626ad16fac587ff23bf3ec724d5fe0fc"
   },
   "0.1.22": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.22-to-0.1.25.bin",
-   "size": 3780608,
-   "sha256": "6ae42bdc8a5dbfc086879adf265e9f5bb1f3c29bf246907c325909182c5427ea"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.22-to-0.1.26.bin",
+   "size": 3783680,
+   "sha256": "a5ae1df9563b4f684f68c9d197cd815bbb81634a17fa8a22b5b04528eff906e6"
   }
  },
  "apk": {
-  "versionCode": 25,
-  "versionName": "0.1.25",
-  "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Repair-0.1.25.bin",
+  "versionCode": 26,
+  "versionName": "0.1.26",
+  "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Repair-0.1.26.bin",
   "size": 168888,
-  "sha256": "7a217b9d34e98b17caa5163b7ae26a19d015e7780e3244ef67ccd42ade7d7f10"
+  "sha256": "4e327a9081800660e0372db9d90ae621c4324d3a4d3783484c61281f6a489cd1"
  }
 }
