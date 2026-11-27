@@ -1,14 +1,24 @@
 {
- "latest": "0.1.22",
+ "latest": "0.1.23",
  "notes": [
-  "كبس فقط: زرار إلغاء لو اتسجل بالغلط",
-  "تحديث البرنامج من الإنترنت من جوه البرنامج"
+  "شريط الأيقونات في الموبايل بقى سلايدر",
+  "تطبيق الأندرويد بقى بيتحدث من الإنترنت",
+  "صورة الفاتورة إجبارية لما تشتري قطعة عند التسليم",
+  "كارت القطع في التقفيل بيفتح تفاصيل كل قطعة",
+  "إلغاء الكبس من برنامج الكمبيوتر بس"
  ],
  "updates": {
-  "0.1.21": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.21-to-0.1.22.bin",
-   "size": 3763712,
-   "sha256": "4a9990b5987587b4d6d7087e6749a296cd84873456d1f86aef83c3428aaba781"
+  "0.1.22": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.22-to-0.1.23.bin",
+   "size": 3766784,
+   "sha256": "d0250a0ed2c81e48acc64f218e84331a99d59f8d94a35f6bb41e5bcabc02eb5a"
   }
+ },
+ "apk": {
+  "versionCode": 23,
+  "versionName": "0.1.23",
+  "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Repair-0.1.23.bin",
+  "size": 168888,
+  "sha256": "56d8d52976b5f5990e46dbb61f9521d3e3eaa5530b99798fcd0733a2f6ccfdf4"
  }
 }
