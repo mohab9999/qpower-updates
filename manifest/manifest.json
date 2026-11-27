@@ -1,49 +1,53 @@
 {
- "latest": "0.1.28",
+ "latest": "0.1.29",
  "notes": [
-  "مرتجع صيانة بقى زيارة كاملة: ليها استلام وتظهر في الأجهزة والتسليمات وبتتقفل بتسليم، وتقدر تختار مجاني أو الزبون يدفع جزء أو كامل",
-  "المرتجع بيظهر بالأحمر وفيه لينك لإيصال الإصلاح الأصلي",
-  "قايمة موديلات الموبايلات (أندرويد وآيفون) بتتحدث لوحدها من النت",
-  "شاشة التثبيت بقت أحسن وفيها شريط تقدم",
-  "لو الكمبيوتر مقفول وجربت \"شوف في تحديث\" من الموبايل بتظهر رسالة واضحة بدل الخطأ القديم"
+  "رقم النسخة في أسفل الشاشة والإعدادات بقى بيظهر النسخة الحقيقية",
+  "زرار \"تمام\" بقى واضح في الوضع الليلي",
+  "قفل بباسورد على برنامج الكمبيوتر (اختياري): ولو نسيته تضغط \"تواصل مع الدعم\" وتاخد كود إعادة",
+  "أربع خانات اختيارية بتشغلها من الإعدادات: المخزن، الضمان، ديون الزباين، تقارير الفنيين"
  ],
  "updates": {
+  "0.1.28": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.28-to-0.1.29.bin",
+   "size": 3982848,
+   "sha256": "591e1d1584dd03793dbdf75ad2c7f48f6a1f527b94976ac08eded13544f8e303"
+  },
   "0.1.27": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.27-to-0.1.28.bin",
-   "size": 3921920,
-   "sha256": "8d297932837bc5f9aa3997b10c2fc62b37e559d3a0c44735d443d82917128a96"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.27-to-0.1.29.bin",
+   "size": 3982848,
+   "sha256": "c757dbb94350aae70d25a48f52ff2eb1560195bf2ee8f167cf76043f5c86ca29"
   },
   "0.1.26": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.26-to-0.1.28.bin",
-   "size": 3921920,
-   "sha256": "b7cf873e18d5f1f71c05d679e142bfab18f0d1d6c180326604174a602096d554"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.26-to-0.1.29.bin",
+   "size": 3982848,
+   "sha256": "138a4409c9eafe8249ef1245aeac88e93553603f11d87b2528625984cb9dbf1e"
   },
   "0.1.25": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.25-to-0.1.28.bin",
-   "size": 3921920,
-   "sha256": "b1c59ad668ec5c05cf258d399e774352634f835fa253d5c554ccd567b91488de"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.25-to-0.1.29.bin",
+   "size": 3982848,
+   "sha256": "b1de86deb863c58a5d7c60340ad645730fe9c98565d17eba0a723902c069edc4"
   },
   "0.1.24": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.24-to-0.1.28.bin",
-   "size": 3921920,
-   "sha256": "2288b47a54ab0c561761e6b0798012535e3c10f58c552e756215083e84315a18"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.24-to-0.1.29.bin",
+   "size": 3982848,
+   "sha256": "462085defc5d9d8a63bcf3178566a8e6572b8bba595488c8f7a7102d02ad6425"
   },
   "0.1.23": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.23-to-0.1.28.bin",
-   "size": 3921920,
-   "sha256": "1b45cb44d4b4e3547e98105793d0c845c1c87dec6738a15063fd971e6a32391c"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.23-to-0.1.29.bin",
+   "size": 3982848,
+   "sha256": "b5d734ebf0536b315af3b13db904e5d4b2ca3f7fca4306c16ed0de62c4173a9c"
   },
   "0.1.22": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.22-to-0.1.28.bin",
-   "size": 3921920,
-   "sha256": "43513f80e7a1f19b61e414f2384e7eb6dd8766423a52c0eb4c43e5aa0e5b4379"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.22-to-0.1.29.bin",
+   "size": 3982848,
+   "sha256": "789c9e2fab364494f095f8642f6eba9aa884ac8ee0d73463115e59003c370a36"
   }
  },
  "apk": {
-  "versionCode": 28,
-  "versionName": "0.1.28",
-  "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Repair-0.1.28.bin",
+  "versionCode": 29,
+  "versionName": "0.1.29",
+  "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Repair-0.1.29.bin",
   "size": 168888,
-  "sha256": "4564f8c1640c936c69d5281eecd22311a06245522aafef0c2af097c2b59e048c"
+  "sha256": "24d060574e7e648f6b4f74f36f974bd0caea6c54332600ca98cef4e385726741"
  }
 }
