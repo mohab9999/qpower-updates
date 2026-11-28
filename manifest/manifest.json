@@ -1,66 +1,71 @@
 {
- "latest": "0.1.33",
+ "latest": "0.1.34",
  "notes": [
-  "شاشة \"ربط الموبايل\" اتعملت زي التصميم المتفق عليه: كارت المتصفح، كارت الأندرويد وزرار تحميل التطبيق، وكارت الأيفون",
-  "الإعدادات في الوضع الليلي بقت مقروءة (الروابط والخانات)",
-  "خانة الرقم السري بقت بملاحظة هادية بدل التحذير الأحمر",
-  "زرار \"+\" لتليفون تاني للمحل وكارت الطباعة منفصل عن التنبيهات"
+  "كارت \"الموبايلات المتصلة\": كل موبايل بيفتح البرنامج بنوعه وعنوانه وآخر دخول وحالته",
+  "حظر أي موبايل بزرار، وفك الحظر برضه (من الكمبيوتر بس)",
+  "اكتب اسم صاحب كل موبايل في عمود \"الاسم\" (مثلاً: أحمد)",
+  "إصلاح نقط الباسورد في شاشة القفل: بقت فاتحة وواضحة"
  ],
  "updates": {
-  "0.1.32": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.32-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "30142ad781cbb996be54a6edceed92c58c591a6421c036524a4d9a5286cdde82"
-  },
-  "0.1.31": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.31-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "31a1a15b0c5a854ae88cf241073430160c529aae702c9f867d17e2b9dce73a6e"
-  },
-  "0.1.30": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.30-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "a822c782a008472c84297163ea6b009467c5fdb3bcb111e79d3c5406863e12b6"
-  },
-  "0.1.29": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.29-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "9a992c1e8e478fe87db93eb0282c7389985df27bf3a2ffe6bc92aa0c3f778645"
-  },
-  "0.1.28": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.28-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "a42a41281b73ded524dba4a3ae7891aa7847fbf8e7b8647d63c886475b2fe505"
-  },
-  "0.1.27": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.27-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "091003e60ad08445c588e1357d60e3773b9d8258778c92454834d54e0a700918"
-  },
-  "0.1.26": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.26-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "c11021d195a2c6d364cac8683d43bc38e59428c5b352a0d11611be6357cdf4c9"
-  },
-  "0.1.25": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.25-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "16b9cf50133d4e86811fa9f55d3a013b658b7e1a38f59b6c2aec1b696f5da594"
-  },
-  "0.1.24": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.24-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "26555830f9e73ec5ddd6a02474373d341beb988b4a56728a2cd4189b7f95b57b"
+  "0.1.22": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.22-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "0473f3a8f875650055e1f8298bc314306c288a728f8d9653ce14546e7974c4f8"
   },
   "0.1.23": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.23-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "27946ca30d77c9721b8084fe6eb7a693294841c5775a98081f0fa812460fbfca"
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.23-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "75fa26c96d9585ab315e9b2c3d1cd5d36b79d8717978ab1c4b2a0621c323909f"
   },
-  "0.1.22": {
-   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.22-to-0.1.33.bin",
-   "size": 4199936,
-   "sha256": "28d516993f8057b3b4b3b14e44626ff46c68d591a2f0174097708897d303a144"
+  "0.1.24": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.24-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "0bb2cac482f06c4e9732ea99b075362c0d5d20e8d5655d8bee399d6a9a30d0e5"
+  },
+  "0.1.25": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.25-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "b6d5f2e190fc14436e6a0af0352256ee626adf7ba7db1978ca85554450579bce"
+  },
+  "0.1.26": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.26-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "a46f5abe9bd7634339c2793d1722c9c0d9168f6591cf656bf9f156eddcc5e4f4"
+  },
+  "0.1.27": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.27-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "a75d35e21680cbc07c4da8f037becacc11cd34a2d2661e71a1c490a946bdd8c9"
+  },
+  "0.1.28": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.28-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "4d4f3b2108e6010a99c4b946d7baf398f4b38896016634b3baf5df495deeb0bb"
+  },
+  "0.1.29": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.29-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "c379f61966c1d9f7e40ae65a53919c74087911bb0c97459b79758833d239d4e0"
+  },
+  "0.1.30": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.30-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "407b8c66f797d17659c99bb41d89c3aa6bb38f27c7caec068f46a7e8c2b15e40"
+  },
+  "0.1.31": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.31-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "8cb5169918b932f082176a29ef4b927c446f0e9a1e011ea5b8afb8b5ecd8fb60"
+  },
+  "0.1.32": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.32-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "fca5efa354190c6cb00c5d4ed931926fda41fd44c553120ee3c11729ed7d45f6"
+  },
+  "0.1.33": {
+   "url": "https://raw.githubusercontent.com/mohab9999/qpower-updates/main/QPower-Update-0.1.33-to-0.1.34.bin",
+   "size": 4944896,
+   "sha256": "8793f293f3ef9f3bfb46d19044369ddd0ab664ea4a4f3429922a1232defb60c0"
   }
  },
  "apk": {
